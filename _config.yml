@@ -9,9 +9,9 @@ aux_links:
     - "https://infosys.beckhoff.com/index_en.htm"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
-url: https://patjas211.github.io/BeckhoffTest
+aux_links_new_tab: true
+url: https://infosys.beckhoff.com/index_en.htm
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Infosys: https://infosys.beckhoff.com/index_en.htm
 
