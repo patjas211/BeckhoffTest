@@ -3,7 +3,7 @@ description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 color_scheme: dark
 
-logo: "/assets/images/logo3.png"
+logo: "/assets/images/logo4.png"
 aux_links:
   "Infosys":
     - "https://infosys.beckhoff.com/index_en.htm"
