@@ -4,7 +4,12 @@ theme: just-the-docs
 color_scheme: dark
 
 logo: "/assets/images/logo3.png"
+aux_links:
+  "Infosys":
+    - "https://infosys.beckhoff.com/index_en.htm"
 
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
 url: https://patjas211.github.io/BeckhoffTest
 
 aux_links:
