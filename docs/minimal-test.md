@@ -2,6 +2,7 @@
 layout: minimal
 title: Minimal layout test
 nav_exclude: true
+layout: default
 ---
 
 # Minimal Layout Test Page
